@@ -88,7 +88,8 @@ Generate a plain text file that ilustrate the variables of the path that best so
 
 path_to_goal: ['Left', 'Up', 'Up', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Right', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Left', 'Up', 'Left']
 cost_of_path: 26
-nodes_expanded: 166786
+nodes_expanded: 1001
 search_depth: 26
-max_search_depth: 27
-running_time: 3.97613275
+max_search_depth: 26
+running_time: 0.09574413
+max_ram_usage: 15.38671875
